@@ -1,3 +1,3 @@
 # Portfolio
 
-<a href="https://jasleenkaurchahal.github.io/Resume/">Clich Here to view the website!</a>
+<a href="https://jasmeetchahal.github.io/Portfolio/">Clich Here to view the website!</a>
