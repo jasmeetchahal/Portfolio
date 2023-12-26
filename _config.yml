@@ -1,0 +1,217 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Jasleen Kaur Chahal
+title: Software Engineer/Software Developer (M.S, B.E)
+email: chahaljasleen18@gmail.com
+website: https://jasleenkaurchahal.github.io/Resume
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+github_username:  jasleenkaurchahal
+linkedin_username: jasleen-kaur-chahal
+
+# Additional icon links
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://jasleenkaurchahal.github.io/Portfolio/
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: profile.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Jasleen and as a recent Master's in Data Science graduate from the University of Michigan, I bring three years of experience in software development to the table. I am actively seeking full-time employment in the areas of Data Science, Front-end, Embedded Software Development or Full-stack Development where I can leverage my technical expertise and passion for problem-solving to make valuable contributions to your team.    
+  
+  My top skills are:
+  
+     - Programming Languages: <mark>C, C++, Data Structures, React Native, Flutter, Python, R</mark>         
+     - Operating Systems: <mark>Windows, Linux, MacOS, Raspberry Pi, Arduino</mark>  
+     - Databases: <mark>MySQL, MongoDB</mark>
+     - Front End tooling workflows: <mark>Node.js, Yarn/npm, webpack, and Babel</mark>
+     - Web Technologies: <mark>HTML, CSS, JavaScript, React, Node.js (Express), Google Cloud (GCP), AWS</mark>
+     - State Management: <mark>GraphQl, MobX, MobX State tree, Zustand, Redux</mark>
+     - Platforms: <mark>Jupyter-notebook, MATLAB, Android Studio, Xcode, Visual Studio Code, Git, CANoe, Jira</mark>
+     - Data-Tools: <mark>MATLAB, Regression Analysis, Model Building, AI, Deep Learning, Data Security & Privacy, PyTorch, Docker</mark>
+     
+content:      
+  - title: Projects
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: St2Vec Implementation
+        link: https://github.com/JasleenKaurChahal/St2Vec_Implemnentation
+        additional_links:
+          - title: St2Vec_Implemnentation
+            icon: fab fa-github
+            url: github.com/JasleenKaurChahal/St2Vec_Implemnentation  
+            
+      - layout: top-middle
+        title: Visual Abductive Reasoning
+        link: https://github.com/JasleenKaurChahal/VisualAbductionReasoning
+        additional_links:
+          - title: St2Vec_Implemnentation
+            icon: fab fa-github
+            url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
+            
+      - layout: top-middle
+        title: MCE and ECE MIAShield implementation on Location-30 dataset
+        link: https://github.com/JasleenKaurChahal/MIAShield_Implementation
+        additional_links:
+          - title: St2Vec_Implemnentation
+            icon: fab fa-github
+            url: github.com/JasleenKaurChahal/St2Vec_Implemnentation     
+            
+      - layout: top-middle
+        title: Dating App
+        link: https://github.com/JasleenKaurChahal/M_Dating
+        additional_links:
+          - title: St2Vec_Implemnentation
+            icon: fab fa-github
+            url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
+            
+   
+            
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Magna Electronics Inc. (Aurburn Hills, MI)
+        link: https://www.magna.com/company/company-information/magna-groups/magna-electronics
+        link_text: Website
+        sub_title: Student Software Engineer
+        caption: September 2022 - Present
+        quote: >
+            Driving the future of automotive technology through the development of cutting-edge software for multi-core embedded systems, with a focus on ADAS and SVS, and utilizing innovative tools and techniques to deliver high-quality products.
+        description: | # this will include new lines to allow paragraphs
+            - Developed object-oriented software for multi-core embedded systems, focusing on ADAS and SVS.
+            - Supported testing, verification, and integration for embedded hardware systems to ensure proper functionality and performance.
+            - Developed automated analysis and reporting methods using Python, MATLAB scripting, and Batch to improve efficiency and accuracy of testing.
+            - Debugged, performed DDR testing, MIPI analysis, and verified ECU using CANalyzer tool to identify and resolve issues.
+            - Flashed the latest software on ECU using Lauterbach, vFlash, and Vector CAN Box to ensure the latest software updates were installed.
+            - Updated code on GitHub and performed code-integration for Jenkins and PTC to maintain proper version control and streamline the development process.
+            - Collaborated with cross-functional teams to achieve project goals and meet deadlines.
+            - Performing all phases of the Software Development Life Cycle, including design, code, test, integration, verification, and integration support, facilitated by an Agile software development workflow.
+            - Supporting scripting (Python/MATLAB scripting/Batch) to automate embedded development tasks and develop tool documentation.
+            - Using  C, and C++ along with Python as programming languages for software development.
+
+            
+      - layout: left
+        title: BlueStamp Engineering (Remote, USA)
+        link: https://bluestampengineering.com/
+        link_text: Website
+        sub_title: Engineering Instructor
+        caption: June 2022 - August 2022
+        quote: >
+            BlueStamp Engineering is an immersive, hands on technology program in which students take the lead by individually selecting a project they are passionate about
+        description: | 
+            - Developed Microcontrollers and Python programming projects.
+            - Circuit design, Firmware development and IoT project development.
+            - Mentored six classes of students to complete their engineering prototypes.
+            - Taught design process, debugging, coding basics, troubleshooting and github to students.
+            - Led project development presentations and engineering documentation.
+            - Facilitated the successful completion of several notable student projects upon program completion, including the development of a [Phone Controlled Robotic Arm](https://tigerfuzz.github.io/Phone-Controlled-Robot-Arm/), [Object Detection With Deep Learning On Raspberry Pi](https://sohithm.github.io/BSE-portfolio-project-218-/), [MIDI Controller](https://abbyfng.github.io/BSE-Portfolio/), and design of a [TwitchBot](https://rahulsinghv30.github.io/TwitchBot/)
+          
+      - layout: left
+        title: GeekyAnts Pvt Ltd (India)
+        link: https://geekyants.com/
+        link_text: Website
+        sub_title: Software Developer
+        caption: June 2020 - August 2021
+        quote: >
+            GeekyAnts is a global leading web and mobile app development company that offers design and development services to help your business transform digitally.        
+        description: | 
+            - Developed mobile applications using React Native and Flutter.
+            - Led the technical presentations of the project with clients.
+            - Designed UI, API integration, and State management for application development.
+            - Performed Unit testing for applications.
+            - Developed several client projects like Taxi App, Music, Food Delivery Apps.
+            - Coded apps using React, Flutter, React Native projects.
+            - Developed apps using Redux, GraphQL, MobX, MobX state tree, Firebase, AWS
+            - Led project management through GitLab, Github, JiraBoard and client meetings.
+            
+      - layout: left
+        title: GeekyAnts Pvt Ltd (India)
+        link: https://geekyants.com/
+        link_text: Website
+        sub_title: Software Developer Intern
+        caption: March 2019 - May 2020
+        quote: >
+            GeekyAnts is a global leading web and mobile app development company that offers design and development services to help your business transform digitally.        
+        description: | 
+            - Developed mobile applications using React Native and Flutter.
+            - Led the technical presentations of the project with clients.
+            - Designed UI, API integration, and State management for application development.
+            - Performed Unit testing for applications.
+            - Developed several client projects like Taxi App, Music, Food Delivery Apps.
+            - Coded apps using React, Flutter, React Native projects.
+            - Developed apps using Redux, GraphQL, MobX, MobX state tree, Firebase, AWS
+            - Led project management through GitLab, Github, JiraBoard and client meetings.            
+            
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Michigan
+        caption: September 2021 - April 2023
+        sub_title: MS in Data Science
+        description: | # this will include new lines to allow paragraphs
+          During my time at UofM, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance. The coursework included core courses in <mark>data mining</mark>, <mark>statistical modeling</mark>, <mark>artificial intelligence</mark>, <mark>deep learning</mark> , and <mark>machine learning</mark>, as well as elective courses in topics such as <mark>big data analytics</mark> and <mark>natural language processing</mark>.
+
+      - layout: left
+        title: Chitkara University 
+        caption: July 2016 - July 2020
+        sub_title: BE (Computer Science and Engineering)
+        description: | 
+         The coursework included core courses in <mark>programming languages</mark>, <mark>database systems</mark>, <mark>operating systems</mark>, <mark>networking</mark> , <mark>algorithms and data structures</mark>, <mark>web development</mark> and <mark>engineering mathematics</mark>.
+
+  
+  - title: Certifications
+    layout: text
+    content: |
+      - [Nanodegree in React from Udacity](https://confirm.udacity.com/LGRF6CJQ)
+      - [Python from HackerRank](https://www.hackerrank.com/certificates/bce6b37faecc)
+      - [Python from TestDome](https://app.testdome.com/cert/38241b9d70774b53804face379447a31)
+            
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in data science and software engineering some of my achievements and strengths:
+      - Bagged Second Rankin State Level Science Exhibition (2015-2016)
+      - President's List- Four semesters, Dean's List- Four semesters
+      - Event Coordinator for UNICEF club in the university
+      - Academic Organizations Representative for SOAC (Student Organization Advisory Council)
+      - Strong project management, problem-solving, and analytical thinking skills.
+      - Ability to develop strong, working relationships across all levels and deliver solid results.
+      - Excellent verbal and written communication skills; ability to communicate clearly and effectively to all levels of the organization.
+      - Expertise in design and product development coupled with a genuine passion for the field, positioning me as a subject-matter specialist
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
