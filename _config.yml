@@ -15,17 +15,8 @@ website: https://jasmeetchahal.github.io/Portfolio
 darkmode: true
 
 # Social links
-github_username:  jasleenkaurchahal
-linkedin_username: jasleen-kaur-chahal
-
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://jasleenkaurchahal.github.io/Portfolio/
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+github_username:  jasmeetchahal
+linkedin_username: jasmeet-singh-chahal
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -42,14 +33,11 @@ about_content: | # this will include new lines to allow paragraphs
   
   My top skills are:
   
-     - Programming Languages: <mark>C, C++, Data Structures, React Native, Flutter, Python, R</mark>         
-     - Operating Systems: <mark>Windows, Linux, MacOS, Raspberry Pi, Arduino</mark>  
-     - Databases: <mark>MySQL, MongoDB</mark>
-     - Front End tooling workflows: <mark>Node.js, Yarn/npm, webpack, and Babel</mark>
-     - Web Technologies: <mark>HTML, CSS, JavaScript, React, Node.js (Express), Google Cloud (GCP), AWS</mark>
-     - State Management: <mark>GraphQl, MobX, MobX State tree, Zustand, Redux</mark>
-     - Platforms: <mark>Jupyter-notebook, MATLAB, Android Studio, Xcode, Visual Studio Code, Git, CANoe, Jira</mark>
-     - Data-Tools: <mark>MATLAB, Regression Analysis, Model Building, AI, Deep Learning, Data Security & Privacy, PyTorch, Docker</mark>
+     - Advanced Technical Expert: <mark>CANalyzer, CANoe, CDA, MS Office, Root cause analysis, CAN, CAN FD, LIN, Ethernet and Loggers</mark>    
+     - Operating Systems: <mark>Windows, Linux, MacOS</mark>  
+     - Electrical Tools: <mark>Multi meter, Clamp meter, Function generator and Oscilloscope</mark>
+     - Advanced: Allegro <mark>PCB Designer, PSpice, MATLAB, Simulink, Cadence, Hardware in Loop [HIL] System, C and C++</mark>
+     - Platforms: <mark>MATLAB, GitHub, Jira, Agile</mark>
      
 content:      
   - title: Projects
@@ -140,25 +128,7 @@ content:
             - Technical presentations of the various shipboard procedures
             - Performance of duties for cargo watch 
             - Testing various shipboard appliances
-
             
-      - layout: left
-        title: GeekyAnts Pvt Ltd (India)
-        link: https://geekyants.com/
-        link_text: Website
-        sub_title: Software Developer Intern
-        caption: March 2019 - May 2020
-        quote: >
-            GeekyAnts is a global leading web and mobile app development company that offers design and development services to help your business transform digitally.        
-        description: | 
-            - Developed mobile applications using React Native and Flutter.
-            - Led the technical presentations of the project with clients.
-            - Designed UI, API integration, and State management for application development.
-            - Performed Unit testing for applications.
-            - Developed several client projects like Taxi App, Music, Food Delivery Apps.
-            - Coded apps using React, Flutter, React Native projects.
-            - Developed apps using Redux, GraphQL, MobX, MobX state tree, Firebase, AWS
-            - Led project management through GitLab, Github, JiraBoard and client meetings.            
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -184,21 +154,18 @@ content:
         description: | 
          The coursework included core courses in <mark>Maritime Law and Regulations</mark>, <mark>Maritime Safety and Environmental Protection</mark>, <mark>Shipping Technology and Innovation</mark>, <mark>Maritime Safety and Environmental Protection</mark> , <mark>Transportation Logistics</mark> and <mark>Port Management and Operations</mark>.
 
-  
-  - title: Certifications
-    layout: text
-    content: |
-      - [Nanodegree in React from Udacity](https://confirm.udacity.com/LGRF6CJQ)
-      - [Python from HackerRank](https://www.hackerrank.com/certificates/bce6b37faecc)
-      - [Python from TestDome](https://app.testdome.com/cert/38241b9d70774b53804face379447a31)
+  # - title: Certifications
+  #   layout: text
+  #   content: |
+  #     - [Nanodegree in React from Udacity](https://confirm.udacity.com/LGRF6CJQ)
+  #     - [Python from HackerRank](https://www.hackerrank.com/certificates/bce6b37faecc)
+  #     - [Python from TestDome](https://app.testdome.com/cert/38241b9d70774b53804face379447a31)
             
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in data science and software engineering some of my achievements and strengths:
+      Alongside my interests in electrical and mechanical engineering some of my achievements and strengths:
       - President's List- Four semesters, Dean's List- Four semesters
-      - Event Coordinator for UNICEF club in the university
-      - Academic Organizations Representative for SOAC (Student Organization Advisory Council)
       - Strong project management, problem-solving, and analytical thinking skills.
       - Ability to develop strong, working relationships across all levels and deliver solid results.
       - Excellent verbal and written communication skills; ability to communicate clearly and effectively to all levels of the organization.
