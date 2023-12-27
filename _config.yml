@@ -28,8 +28,7 @@ linkedin_username: jasmeet-singh-chahal-
 # about_title: About Me
 about_profile_image: profilePic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jasmeet, a Former navigation class 2 officer with bachelor’s degree in Mechanical Engineering. Results-oriented automotive electrical engineer with 8 years of experience in root-cause analysis, integration, and testing of electrical automotive systems. Proven ability to thrive in fast-paced, quality-driven environments, both in team-oriented and individual settings. Expertise in vehicle system architectures, electrical power, and signal distribution. Skilled in the integration and evaluation of Advanced Driver Assistance Systems (ADAS) features, such as ACC, Park Assist, Night Vision, Assisted Highway Driving, Driver Monitoring, cameras, radars, and sensors. Exceptional skills in diagnosing Battery Electric Vehicles (BEV), Range Extended Electric Vehicles (REPB), Plug-in Hybrid Electric Vehicles (PHEV), Gas, and Diesel vehicles. Advanced proficiency in PID/DID verification, PCB design tools, system-level verification, test case design, scripting, functional testing, and validation.
-
+  Hi, my name is Jasmeet, a Former navigation class 2 officer with bachelor’s degree in Mechanical Engineering. Results-oriented automotive electrical engineer with 10 years as a Marine and one year of experience in root-cause analysis, integration, and testing of electrical automotive systems. Looking for full time opportunities in the field of Automation Cars as an Electrical engineer.
   
   My top skills are:
   
@@ -39,42 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
      - Advanced: Allegro <mark>PCB Designer, PSpice, MATLAB, Simulink, Cadence, Hardware in Loop [HIL] System, C and C++</mark>
      - Platforms: <mark>MATLAB, GitHub, Jira, Agile</mark>
      
-content:      
-  # - title: Projects
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: St2Vec Implementation
-  #       link: https://github.com/JasleenKaurChahal/St2Vec_Implemnentation
-  #       additional_links:
-  #         - title: St2Vec_Implemnentation
-  #           icon: fab fa-github
-  #           url: github.com/JasleenKaurChahal/St2Vec_Implemnentation  
-            
-  #     - layout: top-middle
-  #       title: Visual Abductive Reasoning
-  #       link: https://github.com/JasleenKaurChahal/VisualAbductionReasoning
-  #       additional_links:
-  #         - title: St2Vec_Implemnentation
-  #           icon: fab fa-github
-  #           url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
-            
-  #     - layout: top-middle
-  #       title: MCE and ECE MIAShield implementation on Location-30 dataset
-  #       link: https://github.com/JasleenKaurChahal/MIAShield_Implementation
-  #       additional_links:
-  #         - title: St2Vec_Implemnentation
-  #           icon: fab fa-github
-  #           url: github.com/JasleenKaurChahal/St2Vec_Implemnentation     
-            
-  #     - layout: top-middle
-  #       title: Dating App
-  #       link: https://github.com/JasleenKaurChahal/M_Dating
-  #       additional_links:
-  #         - title: St2Vec_Implemnentation
-  #           icon: fab fa-github
-  #           url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
-            
+content:                  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -87,16 +51,15 @@ content:
         quote: >
             Stellantis is a leading global automaker and provider of innovative mobility solutions.
         description: | # this will include new lines to allow paragraphs
-            - Developed object-oriented software for multi-core embedded systems, focusing on ADAS and SVS.
-            - Supported testing, verification, and integration for embedded hardware systems to ensure proper functionality and performance.
-            - Developed automated analysis and reporting methods using Python, MATLAB scripting, and Batch to improve efficiency and accuracy of testing.
-            - Debugged, performed DDR testing, MIPI analysis, and verified ECU using CANalyzer tool to identify and resolve issues.
-            - Flashed the latest software on ECU using Lauterbach, vFlash, and Vector CAN Box to ensure the latest software updates were installed.
-            - Updated code on GitHub and performed code-integration for Jenkins and PTC to maintain proper version control and streamline the development process.
-            - Collaborated with cross-functional teams to achieve project goals and meet deadlines.
-            - Performing all phases of the Software Development Life Cycle, including design, code, test, integration, verification, and integration support, facilitated by an Agile software development workflow.
-            - Supporting scripting (Python/MATLAB scripting/Batch) to automate embedded development tasks and develop tool documentation.
-            - Using  C, and C++ along with Python as programming languages for software development.
+            - Expertise in vehicle system architectures, electrical power, and signal distribution.
+            - Integrating and Evaluating Advanced Driver Assistance Systems (ADAS) and Surround View System (SVS) features.
+            - Working on features like ACC, Park Assist, Night Vision, Assisted Highway Driving, Driver Monitoring, cameras, radars, and sensors.
+            - Supporting testing, verification, and integration for embedded hardware systems to ensure proper functionality and performance.
+            - Diagnosing Battery Electric Vehicles (BEV), Range Extended Electric Vehicles (REPB), Plug-in Hybrid Electric Vehicles (PHEV), Gas, and Diesel vehicles. 
+            - Debugging, performing DDR testing, MIPI analysis, and verified ECU using CANalyzer tool for root-cause analysis.
+            - Proficiency in PID/DID verification, PCB design tools, system-level verification, test case design, scripting, functional testing, and validation.
+            - Collaborating with cross-functional teams to achieve project goals and meet deadlines.
+            - Supporting and developing tool documentation and weekly reports.
 
             
       - layout: left
@@ -111,6 +74,8 @@ content:
             - Worked on several company managed ships
             - Worked on various ship building projects on an operational level
             - Primary in charge of the navigation and cargo watches
+            - Worked on operation and maintainance of navigation equipment.
+            - Worked on Radars.
            
       - layout: left
         title: Bourbon Offshore (Asia)
@@ -140,14 +105,14 @@ content:
 
       - layout: left
         title: Tyne Coast College(South Shields, England)
-        caption: June 2007 - March 2011
+        caption: July 2017 - November 2018 
         sub_title: Masters in shipping and transportation
         description: | 
          The coursework included core courses in <mark>Maritime Law and Regulations</mark>, <mark>Maritime Safety and Environmental Protection</mark>, <mark>Shipping Technology and Innovation</mark>, <mark>Maritime Safety and Environmental Protection</mark> , <mark>Transportation Logistics</mark> and <mark>Port Management and Operations</mark>.
 
       - layout: left
         title: Singapore polytechnic(Singapore)
-        caption: July 2017 - November 2018
+        caption: June 2007 - March 2011
         sub_title: Masters in shipping and transportation
         description: | 
          The coursework included core courses in <mark>Maritime Law and Regulations</mark>, <mark>Maritime Safety and Environmental Protection</mark>, <mark>Shipping Technology and Innovation</mark>, <mark>Maritime Safety and Environmental Protection</mark> , <mark>Transportation Logistics</mark> and <mark>Port Management and Operations</mark>.
