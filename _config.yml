@@ -36,7 +36,6 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: profilePic.jpg
-  crop_type: none
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jasmeet, a Former navigation class 2 officer with bachelor’s degree in Mechanical Engineering. Results-oriented automotive electrical engineer with 8 years of experience in root-cause analysis, integration, and testing of electrical automotive systems. Proven ability to thrive in fast-paced, quality-driven environments, both in team-oriented and individual settings. Expertise in vehicle system architectures, electrical power, and signal distribution. Skilled in the integration and evaluation of Advanced Driver Assistance Systems (ADAS) features, such as ACC, Park Assist, Night Vision, Assisted Highway Driving, Driver Monitoring, cameras, radars, and sensors. Exceptional skills in diagnosing Battery Electric Vehicles (BEV), Range Extended Electric Vehicles (REPB), Plug-in Hybrid Electric Vehicles (PHEV), Gas, and Diesel vehicles. Advanced proficiency in PID/DID verification, PCB design tools, system-level verification, test case design, scripting, functional testing, and validation.
 
