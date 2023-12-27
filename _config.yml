@@ -40,42 +40,40 @@ about_content: | # this will include new lines to allow paragraphs
      - Platforms: <mark>MATLAB, GitHub, Jira, Agile</mark>
      
 content:      
-  - title: Projects
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: St2Vec Implementation
-        link: https://github.com/JasleenKaurChahal/St2Vec_Implemnentation
-        additional_links:
-          - title: St2Vec_Implemnentation
-            icon: fab fa-github
-            url: github.com/JasleenKaurChahal/St2Vec_Implemnentation  
+  # - title: Projects
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: St2Vec Implementation
+  #       link: https://github.com/JasleenKaurChahal/St2Vec_Implemnentation
+  #       additional_links:
+  #         - title: St2Vec_Implemnentation
+  #           icon: fab fa-github
+  #           url: github.com/JasleenKaurChahal/St2Vec_Implemnentation  
             
-      - layout: top-middle
-        title: Visual Abductive Reasoning
-        link: https://github.com/JasleenKaurChahal/VisualAbductionReasoning
-        additional_links:
-          - title: St2Vec_Implemnentation
-            icon: fab fa-github
-            url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
+  #     - layout: top-middle
+  #       title: Visual Abductive Reasoning
+  #       link: https://github.com/JasleenKaurChahal/VisualAbductionReasoning
+  #       additional_links:
+  #         - title: St2Vec_Implemnentation
+  #           icon: fab fa-github
+  #           url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
             
-      - layout: top-middle
-        title: MCE and ECE MIAShield implementation on Location-30 dataset
-        link: https://github.com/JasleenKaurChahal/MIAShield_Implementation
-        additional_links:
-          - title: St2Vec_Implemnentation
-            icon: fab fa-github
-            url: github.com/JasleenKaurChahal/St2Vec_Implemnentation     
+  #     - layout: top-middle
+  #       title: MCE and ECE MIAShield implementation on Location-30 dataset
+  #       link: https://github.com/JasleenKaurChahal/MIAShield_Implementation
+  #       additional_links:
+  #         - title: St2Vec_Implemnentation
+  #           icon: fab fa-github
+  #           url: github.com/JasleenKaurChahal/St2Vec_Implemnentation     
             
-      - layout: top-middle
-        title: Dating App
-        link: https://github.com/JasleenKaurChahal/M_Dating
-        additional_links:
-          - title: St2Vec_Implemnentation
-            icon: fab fa-github
-            url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
-            
-   
+  #     - layout: top-middle
+  #       title: Dating App
+  #       link: https://github.com/JasleenKaurChahal/M_Dating
+  #       additional_links:
+  #         - title: St2Vec_Implemnentation
+  #           icon: fab fa-github
+  #           url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
             
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
