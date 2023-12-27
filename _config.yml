@@ -28,8 +28,8 @@ linkedin_username: jasmeet-singh-chahal-
 # about_title: About Me
 about_profile_image: profilePic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jasmeet, a Former navigation class 2 officer with bachelor’s degree in Mechanical Engineering. Results-oriented automotive electrical engineer with 10 years as a Marine and one year of experience in root-cause analysis, integration, and testing of electrical automotive systems. Looking for full time opportunities in the field of Automation Cars as an Electrical engineer.
-  
+  Former Navigation Class 2 Officer with a Bachelor’s degree in Mechanical Engineering and 10 years in the marine industry. Results-oriented automotive electrical engineer with one year of experience in root-cause analysis, integration, and testing of electrical automotive systems. Seeking full-time opportunities in the field of Automation Cars as an Electrical Engineer.
+
   My top skills are:
   
      - Advanced Technical Expert: <mark>CANalyzer, CANoe, CDA, MS Office, Root cause analysis, CAN, CAN FD, LIN, Ethernet and Loggers</mark>    
@@ -52,6 +52,7 @@ content:
             Stellantis is a leading global automaker and provider of innovative mobility solutions.
         description: | # this will include new lines to allow paragraphs
             - Expertise in vehicle system architectures, electrical power, and signal distribution.
+            - Leading projects for the development of new electrical vehicles, overseeing the entire lifecycle from testing and root-cause analysis to manufacturing.
             - Integrating and Evaluating Advanced Driver Assistance Systems (ADAS) and Surround View System (SVS) features.
             - Working on features like ACC, Park Assist, Night Vision, Assisted Highway Driving, Driver Monitoring, cameras, radars, and sensors.
             - Supporting testing, verification, and integration for embedded hardware systems to ensure proper functionality and performance.
@@ -71,11 +72,13 @@ content:
         quote: >
             Fleet Management Limited provides a comprehensive range of ship management services to cargo ship owners worldwide.
         description: | 
-            - Worked on several company managed ships
-            - Worked on various ship building projects on an operational level
-            - Primary in charge of the navigation and cargo watches
-            - Worked on operation and maintainance of navigation equipment.
-            - Worked on Radars.
+            - Demonstrated adaptability and leadership as Third Officer, Second Officer, and Chief Officer on several company-managed vessels.
+            - Contributed to the operations of numerous company-managed vessels.
+            - Provided operational expertise to various shipbuilding projects, effectively bridging maritime and electrical engineering knowledge.
+            - Held primary responsibility for navigation and cargo watches, emphasizing precision and safety.
+            - Played a key role in the operation and maintenance of navigation equipment.
+            - Operated and maintained Radars and sensors, fostering a seamless integration of maritime and electrical engineering skills.
+            
            
       - layout: left
         title: Bourbon Offshore (Asia)
@@ -86,11 +89,12 @@ content:
         quote: >
             GeekyAnts is a global leading web and mobile app development company that offers design and development services to help your business transform digitally.        
         description: | 
-            - Passage planning correcting charts and publications
+            - Applied software development skills in a maritime context, emphasizing the intersection of technology and maritime operations.
+            - Engaged in passage planning, corrected charts and publications, aligning technical knowledge with practical maritime requirements.
             - Operation and maintenance of bridge navigation equipment, safety and fire-fighting appliances
-            - Technical presentations of the various shipboard procedures
+            - Conducted technical presentations of various shipboard procedures, showcasing a capacity for clear communication and technical expertise.
             - Performance of duties for cargo watch 
-            - Testing various shipboard appliances
+            - Tested various shipboard appliances, ensuring optimal functionality and adherence to safety standards.
             
             
   - title: Education # Title for the section
@@ -98,7 +102,7 @@ content:
     content:
       - layout: left
         title: ECPI University(Virginia, USA)
-        caption: November 2019 - March 2023
+        caption: December 2019 - October 2022
         sub_title: Bachelor’s in Mechanical Engineering
         description: | # this will include new lines to allow paragraphs
           During my time at ECPI, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance. The coursework included core courses in <mark>Computer-Aided Design (CAD)</mark>, <mark>Finite Element Analysis (FEA)</mark>, <mark>Fluid Mechanics</mark>, <mark>Automotive Engineering</mark> , and <mark>Control Systems</mark>, as well as elective courses in topics such as <mark>Mechanics of Materials</mark> and <mark>Project Management</mark>.
@@ -113,16 +117,10 @@ content:
       - layout: left
         title: Singapore polytechnic(Singapore)
         caption: June 2007 - March 2011
-        sub_title: Masters in shipping and transportation
+        sub_title: Bachelor’s in shipping and transportation
         description: | 
          The coursework included core courses in <mark>Maritime Law and Regulations</mark>, <mark>Maritime Safety and Environmental Protection</mark>, <mark>Shipping Technology and Innovation</mark>, <mark>Maritime Safety and Environmental Protection</mark> , <mark>Transportation Logistics</mark> and <mark>Port Management and Operations</mark>.
 
-  # - title: Certifications
-  #   layout: text
-  #   content: |
-  #     - [Nanodegree in React from Udacity](https://confirm.udacity.com/LGRF6CJQ)
-  #     - [Python from HackerRank](https://www.hackerrank.com/certificates/bce6b37faecc)
-  #     - [Python from TestDome](https://app.testdome.com/cert/38241b9d70774b53804face379447a31)
             
   - title: A Little More About Me
     layout: text
