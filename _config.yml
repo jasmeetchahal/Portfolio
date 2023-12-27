@@ -94,13 +94,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Magna Electronics Inc. (Aurburn Hills, MI)
-        link: https://www.magna.com/company/company-information/magna-groups/magna-electronics
+        title: Stellantis (Aurburn Hills, MI)
+        link: https://www.stellantis.com/en
         link_text: Website
-        sub_title: Student Software Engineer
-        caption: September 2022 - Present
+        sub_title: Electrical Engineer
+        caption: March 2023 - Present
         quote: >
-            Driving the future of automotive technology through the development of cutting-edge software for multi-core embedded systems, with a focus on ADAS and SVS, and utilizing innovative tools and techniques to deliver high-quality products.
+            Stellantis is a leading global automaker and provider of innovative mobility solutions.
         description: | # this will include new lines to allow paragraphs
             - Developed object-oriented software for multi-core embedded systems, focusing on ADAS and SVS.
             - Supported testing, verification, and integration for embedded hardware systems to ensure proper functionality and performance.
@@ -115,38 +115,33 @@ content:
 
             
       - layout: left
-        title: BlueStamp Engineering (Remote, USA)
-        link: https://bluestampengineering.com/
+        title: Fleet Management (Hong Kong)
+        link: https://www.fleetship.com/
         link_text: Website
-        sub_title: Engineering Instructor
-        caption: June 2022 - August 2022
+        sub_title: Third Officer, Second Officer and Chief Officer
+        caption: March 2014 - May 2017
         quote: >
-            BlueStamp Engineering is an immersive, hands on technology program in which students take the lead by individually selecting a project they are passionate about
+            Fleet Management Limited provides a comprehensive range of ship management services to cargo ship owners worldwide.
         description: | 
-            - Developed Microcontrollers and Python programming projects.
-            - Circuit design, Firmware development and IoT project development.
-            - Mentored six classes of students to complete their engineering prototypes.
-            - Taught design process, debugging, coding basics, troubleshooting and github to students.
-            - Led project development presentations and engineering documentation.
-            - Facilitated the successful completion of several notable student projects upon program completion, including the development of a [Phone Controlled Robotic Arm](https://tigerfuzz.github.io/Phone-Controlled-Robot-Arm/), [Object Detection With Deep Learning On Raspberry Pi](https://sohithm.github.io/BSE-portfolio-project-218-/), [MIDI Controller](https://abbyfng.github.io/BSE-Portfolio/), and design of a [TwitchBot](https://rahulsinghv30.github.io/TwitchBot/)
-          
+            - Worked on several company managed ships
+            - Worked on various ship building projects on an operational level
+            - Primary in charge of the navigation and cargo watches
+           
       - layout: left
-        title: GeekyAnts Pvt Ltd (India)
-        link: https://geekyants.com/
+        title: Bourbon Offshore (Asia)
+        link: https://www.bourbonoffshore.com/en
         link_text: Website
         sub_title: Software Developer
-        caption: June 2020 - August 2021
+        caption: June 2007– August 2011
         quote: >
             GeekyAnts is a global leading web and mobile app development company that offers design and development services to help your business transform digitally.        
         description: | 
-            - Developed mobile applications using React Native and Flutter.
-            - Led the technical presentations of the project with clients.
-            - Designed UI, API integration, and State management for application development.
-            - Performed Unit testing for applications.
-            - Developed several client projects like Taxi App, Music, Food Delivery Apps.
-            - Coded apps using React, Flutter, React Native projects.
-            - Developed apps using Redux, GraphQL, MobX, MobX state tree, Firebase, AWS
-            - Led project management through GitLab, Github, JiraBoard and client meetings.
+            - Passage planning correcting charts and publications
+            - Operation and maintenance of bridge navigation equipment, safety and fire-fighting appliances
+            - Technical presentations of the various shipboard procedures
+            - Performance of duties for cargo watch 
+            - Testing various shipboard appliances
+
             
       - layout: left
         title: GeekyAnts Pvt Ltd (India)
@@ -170,18 +165,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Michigan
-        caption: September 2021 - April 2023
-        sub_title: MS in Data Science
+        title: ECPI University(Virginia, USA)
+        caption: November 2019 - March 2023
+        sub_title: Bachelor’s in Mechanical Engineering
         description: | # this will include new lines to allow paragraphs
-          During my time at UofM, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance. The coursework included core courses in <mark>data mining</mark>, <mark>statistical modeling</mark>, <mark>artificial intelligence</mark>, <mark>deep learning</mark> , and <mark>machine learning</mark>, as well as elective courses in topics such as <mark>big data analytics</mark> and <mark>natural language processing</mark>.
+          During my time at ECPI, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance. The coursework included core courses in <mark>Computer-Aided Design (CAD)</mark>, <mark>Finite Element Analysis (FEA)</mark>, <mark>Fluid Mechanics</mark>, <mark>Automotive Engineering</mark> , and <mark>Control Systems</mark>, as well as elective courses in topics such as <mark>Mechanics of Materials</mark> and <mark>Project Management</mark>.
 
       - layout: left
-        title: Chitkara University 
-        caption: July 2016 - July 2020
-        sub_title: BE (Computer Science and Engineering)
+        title: Tyne Coast College(South Shields, England)
+        caption: June 2007 - March 2011
+        sub_title: Masters in shipping and transportation
         description: | 
-         The coursework included core courses in <mark>programming languages</mark>, <mark>database systems</mark>, <mark>operating systems</mark>, <mark>networking</mark> , <mark>algorithms and data structures</mark>, <mark>web development</mark> and <mark>engineering mathematics</mark>.
+         The coursework included core courses in <mark>Maritime Law and Regulations</mark>, <mark>Maritime Safety and Environmental Protection</mark>, <mark>Shipping Technology and Innovation</mark>, <mark>Maritime Safety and Environmental Protection</mark> , <mark>Transportation Logistics</mark> and <mark>Port Management and Operations</mark>.
+
+      - layout: left
+        title: Singapore polytechnic(Singapore)
+        caption: July 2017 - November 2018
+        sub_title: Masters in shipping and transportation
+        description: | 
+         The coursework included core courses in <mark>Maritime Law and Regulations</mark>, <mark>Maritime Safety and Environmental Protection</mark>, <mark>Shipping Technology and Innovation</mark>, <mark>Maritime Safety and Environmental Protection</mark> , <mark>Transportation Logistics</mark> and <mark>Port Management and Operations</mark>.
 
   
   - title: Certifications
@@ -195,7 +197,6 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in data science and software engineering some of my achievements and strengths:
-      - Bagged Second Rankin State Level Science Exhibition (2015-2016)
       - President's List- Four semesters, Dean's List- Four semesters
       - Event Coordinator for UNICEF club in the university
       - Academic Organizations Representative for SOAC (Student Organization Advisory Council)
